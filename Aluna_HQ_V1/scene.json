@@ -1,0 +1,45 @@
+{
+  "display": {
+    "title": "Aluna HQ V1",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "owner": "0x750D23ea18E1737C17cd517aEA97CF8F48e0B218",
+  "contact": {
+    "name": "Alunaut",
+    "email": ""
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "5,-43"
+    ],
+    "base": "5,-43"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": ""
+  },
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "f36a126f-ff73-43f5-8436-51a4aba18a36",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 1,
+      "cols": 1
+    }
+  }
+}
